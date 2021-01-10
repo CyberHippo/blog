@@ -14,6 +14,7 @@ thumbnailImagePosition: left
 thumbnailImage: "http://static.vergnol.eu/img/heart.png"
 showSocial: false
 showPagination: false
+draft: true
 ---
 
 {{< alert warning >}}

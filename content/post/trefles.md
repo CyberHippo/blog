@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: "img/trefles.jpg"
 showSocial: false
 showPagination: false
+draft: true
 ---
 
 Check out the website of the guest house `Les Trèfles`, a nice gite near *Clermont-Ferrand* in the *Puy de Dôme (63)*.

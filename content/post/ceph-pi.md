@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: img/ceph_logo.png
 showPagination: false
 showSocial: false
+draft: true
 ---
 
 {{< alert warning >}}

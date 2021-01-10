@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: "img/plurinotes.png"
 showSocial: false
 showPagination: false
+draft: true
 ---
 
 Check out `Plurinote`, a note-taking app written in *C++* using *Qt*.

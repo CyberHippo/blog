@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: "img/bloch_sphere.png"
 showSocial: false
 showPagination: false
+draft: true
 ---
 
 Check out my learning platform to get familiar with the concepts of `Quantum Computing` developed using [*Reveal.js*](https://revealjs.com/#/).

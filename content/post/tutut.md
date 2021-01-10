@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: "img/tutut.png"
 showSocial: false
 showPagination: false
+draft: true
 ---
 
 Check out `Tutut`, a carpooling app written in *Python* using [*Django*](https://www.djangoproject.com/).

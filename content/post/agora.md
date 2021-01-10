@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: "img/agora.JPG"
 showSocial: false
 showPagination: false
+draft: true
 ---
 
 Check out the website of the creperie `Agora`, a nice restaurant in the medieval city of Laon.

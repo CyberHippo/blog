@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: "img/car-config.png"
 showPagination: false
 showSocial: false
+draft: true
 ---
 
 Check out `Reno`, a car configurator written in *J2E* using a *REST API*.
